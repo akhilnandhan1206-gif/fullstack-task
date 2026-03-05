@@ -86,3 +86,4 @@ GROUP BY c.name
 ORDER BY total_spent DESC;
 
 
+
